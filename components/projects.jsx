@@ -16,7 +16,7 @@ export default function Projects() {
         "Explore stunning landscapes and the serene beauty of the natural world.",
       image: "assets/images/Nature.jpg",
       tags: ["Photography", "Outdoors"],
-      GalleryUrl: "https://gitlab.com/ezeddin_alassaad/ptway",
+      GalleryUrl: "",
     },
     {
       title: "Industrial Cities",
@@ -24,7 +24,7 @@ export default function Projects() {
         "Discover the architectural grit and innovation of the world’s industrial hubs.",
       image: "assets/images/IndustrialCities.jpg",
       tags: ["Urban", "Architecture"],
-      GalleryUrl: "https://gitlab.com/ezeddin_alassaad/thats_app_2",
+      GalleryUrl: "",
     },
     {
       title: "Kitchen",
@@ -32,7 +32,7 @@ export default function Projects() {
         " Dive into delicious recipes, modern design, and culinary inspiration.",
       image: "assets/images/Kitchen.jpg",
       tags: ["Food", "Design"],
-      GalleryUrl: "https://github.com/Ezeddin-Alassaad/BookStoreApi",
+      GalleryUrl: "",
     },
     {
       title: "Crafts & Arts",
@@ -40,7 +40,7 @@ export default function Projects() {
         "Celebrate handmade creations, DIY projects, and artistic expression.",
       image: "assets/images/Crafts&Arts.jpg",
       tags: ["DIY", "Art"],
-      GalleryUrl: "https://gitlab.com/ezeddin_alassaad/restaurant-ezo",
+      GalleryUrl: "",
     },
     {
       title: "My Work Photos",
@@ -48,7 +48,7 @@ export default function Projects() {
         "A curated collection of my best professional photographs across genres",
       image: "assets/images/MyWorkPhotos.jpg",
       tags: ["Portfolio", "Photography"],
-      GalleryUrl: "https://gitlab.com/ezeddin_alassaad/restaurant-ezo",
+      GalleryUrl: "",
     },
   ]
 

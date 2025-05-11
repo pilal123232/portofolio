@@ -56,14 +56,14 @@ export default function About() {
             </div>
           </div>
 
-          <div className="text-center">
+          {/* <div className="text-center">
             <Link
               href="https://drive.google.com/file/d/1NOWXwlljd8pf3PF6Yqk-e53OnWqmcuAF/view?usp=drive_link"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-lg bg-purple-500 text-white font-medium hover:bg-purple-600 transition-all hover:scale-105"
             >
               <FileText size={18} /> Download Resume
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
